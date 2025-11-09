@@ -16,3 +16,6 @@
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-Rajan&theme=dark&hide_border=false)<br/>
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/pavi22?theme=dark&font=Gafata)
